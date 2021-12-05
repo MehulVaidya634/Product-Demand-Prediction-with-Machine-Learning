@@ -7,6 +7,8 @@ STEPS:
 importing the necessary Python libraries and the dataset
 
 Scatter plot for analyzing the relation between demand and price.
+![download](https://user-images.githubusercontent.com/95433685/144752247-5e398bcf-2cee-4305-b524-6a3d9bea6583.png)
+
 
 Creating model for Product demand prediction with DecisionTreeclassifier.
 
